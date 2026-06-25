@@ -8,3 +8,6 @@
 .d-flex .btn {
   margin-left: 0px;
 }
+.btn {
+  display: block;
+}
